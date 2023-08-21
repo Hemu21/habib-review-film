@@ -1,0 +1,27 @@
+.whole{
+    float: left;
+    width:160px;
+    height: 250px;
+    margin: 15px;
+    border: none;
+    border-radius: 6px;
+}
+
+.whole:hover{
+    box-shadow: 5px 5px 5px 5px hsl(0, 2%, 10%);
+}
+
+.mov-img{
+    width:160px;
+    height: 149px;
+    border-radius: 6px;
+}
+
+.title{
+    width: 148px;
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 0px;
+    font-size: 13px;
+    overflow: hidden;
+}

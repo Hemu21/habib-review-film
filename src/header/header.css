@@ -1,0 +1,22 @@
+.head{
+    height: 90px;
+    background: #2a2929;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    display: flex;
+    color: white;
+}
+.not-allow{
+    display: none;
+}
+.allow{
+    width: auto;
+    height: 45px;
+    margin-top: 20px;
+    background: rgb(24, 103, 2);
+    color: white;
+    border-radius: 4px;
+}

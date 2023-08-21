@@ -1,0 +1,13 @@
+.mov-i{
+    width: 300px;
+    height: 400px;
+    margin: 15px;
+    border-radius: 10px;
+}
+.mov{
+    width: 360px;
+}
+.desc{
+    width: auto;
+    overflow-wrap:break-word;
+}
