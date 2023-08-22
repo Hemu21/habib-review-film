@@ -17,7 +17,7 @@ export default function Login(props) {
       // ...
     }).catch((error) => {
       console.log(error)
-      toast.error("Problem in Signin with Google",{theme:"colored"})
+      toast.error(error,{theme:"colored"})
     });
   }
   function loginfun(){
